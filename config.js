@@ -1,20 +1,16 @@
 module.exports = {
-  token: "MTA4NzczNDQwNDI1Mzc0OTM3OQ.G3vgNf.ALUJ60NOfUSeQpcZ03FyG0iC8agdaKnjZIrego",
+  token: "",
   prefix: "&",
-  mongoURI: "mongodb+srv://hammer:oZfyBHxRJ5yA9l00@hammer.qwukouw.mongodb.net/hammerDatabase?retryWrites=true&w=majority",
+  mongoURI: "",
   dbl: "",
   BFD: "",
   owners: [
-    { name: "Void", id: "857958962904694836" },
-    { name: "Nitro", id: "552382697205530624" },
-    { name: "Zeus", id: "903713389749088317" },
-    { name: "Viper", id: "1035438706351419514" },
-    { name : `Punit`, id : "765841266181144596"}
+    { name: "Destroyer", id: "1091708916045467688" },
+    { name: "Ziron", id: "893478038107488276" },
+    { name: "Sagar", id: "962660734892900404" },
+    { name: "Harsh", id: "982960716413825085" }
   ],
-  supporter: [
-    { name: ".", id: "979400321870737490" },
-    { name: "..", id: "1085976714687037493" }
-  ],
+ 
   supportServer: (code) => `https://discord.gg/${code}`,
   inviteURL: (id) => `https://discord.com/api/oauth2/authorize?client_id=${id}&permissions=8&scope=bot`,
   credentials: {
