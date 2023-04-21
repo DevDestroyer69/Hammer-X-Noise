@@ -7,4 +7,4 @@ SAGAR#4871
 
 Ziron.#6646
 
-You Can Free To Use This Code Is An Open Source Project 
+You Are Free To Use This Code Is An Open Source Project 
